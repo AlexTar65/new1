@@ -1,0 +1,186 @@
+
+div
+  {
+  border: 1px solid Red;
+  }
+
+  .header a{
+    font: Roboto; 
+    font-style: Medium-italic;
+    font-weight: 400;
+    font-size: 24px; 
+  }
+  
+.i {
+  position: relative;
+  margin-left: 520px;
+  padding-bottom: 25px;
+  font: Roboto; 
+  font-style: Medium-italic;
+  font-weight: 400;
+  font-size: 24px;
+  text-align: center;
+    
+}
+.k {
+  position: relative;
+  margin-right: 20px;
+}
+.header img {
+  position: relative;
+  text-align: left;
+  background: #007765;
+  margin-left: 20px;
+  padding-top: 30px;
+}
+
+.group1{
+background-image: url("image.png");
+  
+  
+font: Roboto; 
+font-style: Medium-italic;
+font-weight: 400;
+font-size: 72px ;
+line-height: 38px;
+text-align: center;
+text-anchor: middle;
+
+color: white;
+
+position: relative;
+padding-top: 115px;
+padding-bottom: 115px;
+
+  
+  
+  
+
+
+
+}
+.problem  {
+
+
+  background: #EEEEEE;
+  font-family: 'Roboto';
+  font-style: Mixed;
+  font-weight: 500;
+  font-size: 64px;
+  text-align: center;
+  position: relative;
+  padding-top: 48px;
+  padding-bottom: 88px;
+ 
+  color: #007765
+  
+
+}
+.problem p
+{
+  
+  
+  color: #000000; 
+  font-family: 'Roboto';
+  font-style: Mixed;
+  font-weight: 500;
+  font-size: 32px;
+  text-align: left;
+  margin-right:60px;
+  margin-left: 60px;  
+  
+
+
+
+
+
+}
+
+.hero{
+  
+
+
+
+
+background-image: url("2.png");
+
+padding-top: 158px;
+  
+font-family: 'Roboto';
+font-style: italic;
+font-weight: 500;
+font-size: 48px;
+line-height: 56px;
+text-align: center;
+
+color: #FFFFFF;
+
+}
+.PPC img {
+  padding-top: 128px;
+  margin-left: 55px; 
+  float: left;
+}
+.PPC {
+ background: #FFFFFF;
+ font-family: 'Roboto';
+  font-style: Mixed;
+  font-weight: 500;
+  font-size: 64px;
+  text-align: left;
+  position: relative;
+  padding-top: 0px;
+  text-align: center;
+
+
+}
+
+.intro{
+  font-family: 'Roboto';
+  font-style: Mixed;
+  font-weight: 500;
+  font-size: 64px;
+  text-align: left;
+  position: relative;
+  padding-top: 0px;
+  text-align: left;
+  
+ 
+  color: #007765
+  
+
+}
+.piedpiper{
+  font-family: 'Roboto';
+  font-style: Mixed;
+  font-weight: 500;
+  font-size: 32px;
+  text-align: left;
+  
+  margin-left: 218px;   
+}
+.now{
+  font-family: 'Roboto';
+  font-style: Regular;
+  font-weight: 500;
+  font-size: 32px;
+  text-align: left; 
+  margin-left: 91px; 
+}
+
+.team {
+  background: #EEEEEE;
+  font-family: 'Roboto';
+  font-style: Mixed;
+  font-weight: 500;
+  font-size: 64px;
+  text-align: center;
+  position: relative;
+  padding-top: 48px;
+  padding-bottom: 88px;
+ 
+  color: #007765
+
+}
+
+
